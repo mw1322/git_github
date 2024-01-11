@@ -1,1 +1,3 @@
-console.log(5+7);
+var a = 56;
+var b = 74;
+console.log(a+b);
